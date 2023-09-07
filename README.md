@@ -1,6 +1,6 @@
 # Job-Search
 ### Run the code:
-to run the code, press control+ "`" to open a terminal, and input `python jobsearch.py` or `python3 jobsearch.py`
+to run the code, press control + (`) to open a terminal, and input python jobsearch.py or python3 jobsearch.py
 ### Change the period:
 in Indeed ，`fromage=1` represents jobs published in last one day  
         `"Indeed": "https://www.indeed.com/jobs?q={}&fromage=1"`,
